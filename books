@@ -9,7 +9,7 @@
       "book_genre": "Young Adult",
       "book_theme": "Identity",
       "author": "J.D. Salinger",
-      "book_img": "https://example.com/the_catcher_in_the_rye.jpg",
+      "book_img": "https://i.ibb.co/dmc8ZNx/pngwing-1.png",
       "tags": ["Classic", "Coming-of-age", "Rebellion"],
       "book_summary": "Holden Caulfield, a disillusioned teenager, recounts his experiences in New York City after being expelled from prep school. As Holden grapples with loneliness, alienation, and the phoniness of adult society, he embarks on a journey of self-discovery and rebellion against societal norms. The Catcher in the Rye is a timeless coming-of-age novel that resonates with readers for its exploration of teenage angst and the search for authenticity."
     },
@@ -23,7 +23,7 @@
       "book_genre": "Fiction",
       "book_theme": "Identity",
       "author": "F. Scott Fitzgerald",
-      "book_img": "https://example.com/the_great_gatsby.jpg",
+      "book_img": "https://i.ibb.co/74yXGkq/kindpng-2193744-1.png",
       "tags": ["Classic", "Wealth", "Illusion"],
       "book_summary": "Set in the Roaring Twenties, The Great Gatsby follows Jay Gatsby's pursuit of wealth and love in the hope of winning back his former lover, Daisy Buchanan. Narrated by Nick Carraway, a newcomer to Long Island, the novel explores themes of decadence, illusion, and the American Dream against the backdrop of extravagant parties and social upheaval. F. Scott Fitzgerald's masterpiece offers a poignant critique of the Jazz Age while delving into the complexities of identity and the fleeting nature of happiness."
     },
@@ -37,7 +37,7 @@
       "book_genre": "Fiction",
       "book_theme": "Identity",
       "author": "Harper Lee",
-      "book_img": "https://example.com/to_kill_a_mockingbird.jpg",
+      "book_img": "https://ibb.co/7nQfccC",
       "tags": ["Classic", "Racism", "Morality"],
       "book_summary": "Set in the racially charged atmosphere of the American South, To Kill a Mockingbird follows Scout Finch, a young girl growing up in the 1930s, as her father, Atticus Finch, defends a black man falsely accused of raping a white woman. Through Scout's eyes, the novel explores themes of racial injustice, moral growth, and empathy in the face of prejudice and hatred. Harper Lee's Pulitzer Prize-winning novel remains a timeless classic, challenging readers to confront the complexities of identity, morality, and the pursuit of justice."
     },
@@ -51,7 +51,7 @@
       "book_genre": "Science Fiction",
       "book_theme": "Identity",
       "author": "George Orwell",
-      "book_img": "https://example.com/1984.jpg",
+      "book_img": "https://i.ibb.co/0rpPCq9/kindpng-1064993.png",
       "tags": ["Dystopian", "Surveillance", "Totalitarianism"],
       "book_summary": "In a dystopian society ruled by the totalitarian regime of Big Brother, Winston Smith rebels against the oppressive government's surveillance and control. As Winston navigates a world of thoughtcrime and doublethink, he grapples with questions of truth, freedom, and individual identity. George Orwell's chilling portrayal of a future society serves as a warning against the dangers of totalitarianism and the erosion of personal freedoms. 1984 remains a powerful and relevant novel, prompting readers to reflect on the nature of power, authority, and the preservation of human dignity."
     },
@@ -65,7 +65,7 @@
       "book_genre": "Romance",
       "book_theme": "Identity",
       "author": "Jane Austen",
-      "book_img": "https://example.com/pride_and_prejudice.jpg",
+      "book_img": "https://ibb.co/FqHMCMh",
       "tags": ["Classic", "Romance", "Social Commentary"],
       "book_summary": "Set in Regency-era England, Pride and Prejudice follows the tumultuous relationship between Elizabeth Bennet and Mr. Darcy as they navigate the social mores and class structures of their society. As Elizabeth confronts her own prejudices and misconceptions, she discovers the true nature of love and the importance of understanding and forgiveness. Jane Austen's timeless novel offers a witty and insightful critique of societal expectations and gender roles while celebrating the power of individual agency and the complexities of human nature."
     },
@@ -79,7 +79,7 @@
       "book_genre": "Fantasy",
       "book_theme": "Identity",
       "author": "J.K. Rowling",
-      "book_img": "https://example.com/harry_potter_sorcerers_stone.jpg",
+      "book_img": "https://ibb.co/Zf4JqqP",
       "tags": ["Magic", "Adventure", "Friendship"],
       "book_summary": "Harry Potter, an orphaned boy living with his cruel relatives, discovers he is a wizard on his eleventh birthday. Attending Hogwarts School of Witchcraft and Wizardry, Harry embarks on a journey of self-discovery and magical adventures with his friends Hermione Granger and Ron Weasley. As Harry learns about his past and confronts the dark wizard Voldemort, he grapples with questions of destiny, courage, and the power of love. J.K. Rowling's enchanting tale captivates readers of all ages with its themes of friendship, bravery, and the search for one's true identity."
     }
